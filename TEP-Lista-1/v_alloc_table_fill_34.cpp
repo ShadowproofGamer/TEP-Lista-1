@@ -1,5 +1,7 @@
 #include "constants.h"
 #include <iostream>
+#include "table_functions.h"
+
 
 //function for ex1
 void v_alloc_table_fill_34(int iSize) {

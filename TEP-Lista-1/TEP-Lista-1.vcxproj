@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="table_functions.h" />
     <ClInclude Include="CTable.h" />
     <ClInclude Include="constants.h" />
   </ItemGroup>
