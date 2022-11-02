@@ -23,6 +23,9 @@ public:
 	CTable* pcClone();
 	int getContent(int id);
 	void setContent(int id, int element);
-}
+	int getLength();
+};
+void v_mod_tab(CTable* pcTab, int iNewSize);
+void v_mod_tab(CTable cTab, int iNewSize);
 #endif //CTABLE
 ;
